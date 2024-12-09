@@ -9,7 +9,7 @@ url_datos_covid = "https://covid.ourworldindata.org/data/owid-covid-data.csv"
 
 st.title("Dashboard Interactivo de COVID-19")
 st.write("Este dashboard muestra estadísticas y gráficos interactivos sobre el COVID-19.")
-st.write("Héctor Ayuso Martín")
+st.write("Héctor Ayuso Martín")#nuevo commit
 
 st.write("Descargando datos de COVID-19. Espere por favor...")
 try:
